@@ -12,5 +12,5 @@
 <img src="https://img.shields.io/badge/json-FF8000?style=flat-square&logo=json&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-FFFF00?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-0B2F3A?style=flat-square&logo=numpy&logoColor=white"/></a>
-
+<img src="https://img.shields.io/badge/pandas-0B0B61?style=flat-square&logo=pandas&logoColor=white"/></a>
 
