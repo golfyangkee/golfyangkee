@@ -10,4 +10,4 @@
 <img src="https://img.shields.io/badge/NumPy-0B2F3A?style=flat-square&logo=numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-0B0B61?style=flat-square&logo=pandas&logoColor=white"/></a>
 
-[![HIts}(https://hits.golfyangkee.com/api/count/incr/badge.svg?url=httpls%3A%2F%2Fgithub.com%2Fmadplay)](https://hits.golfyangkee.com)]
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgolfyangkee&count_bg=%236915BA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
